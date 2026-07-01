@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6v0346/b/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 中論文句釋
+  edition:
+    short: b
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/B/B09/B09n0047.xml
+    old_id: B09n0047
+hash: sha256:89fc2f9aabacd28ddb519dc1cb740a460fa367b204daf44cabc472d1748c6592

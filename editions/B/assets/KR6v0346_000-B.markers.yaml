@@ -1,0 +1,10 @@
+canonical_identifier: bkk:krp/KR6v0346/B/v1/markers/0
+seq: 0
+markers:
+  front:
+  - {type: page-break, offset: 0, content: '', id: KR6v0346_B_000-0775a, ed: B, 'n': 0775a, source_xml_id: B09.0047.0775a}
+  - {type: line-break, offset: 0, content: '', id: KR6v0346_B_000-0775a01, ed: B, 'n': 0775a01}
+  - {type: line-break, offset: 0, content: '', id: KR6v0346_B_000-0775a02, ed: B, 'n': 0775a02}
+  body: []
+  back: []
+hash: sha256:56b9a4b0aae88232a044228534fc851534741a68290db8504ab9f51263fd2e4f

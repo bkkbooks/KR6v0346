@@ -1,0 +1,338 @@
+canonical_identifier: bkk:krp/KR6v0346/B/v1
+canonical_location: https://kanripo.org/bkk/KR6v0346/B/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 中論文句釋
+  identifiers:
+    krp: KR6v0346
+    cbeta: B09n0047
+    cbeta_old_id: B09n0047
+    authorityid: CA0006131
+    json_key: B0047
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/B/B09/B09n0047.xml
+    old_id: B09n0047
+  edition:
+    short: B
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0346_000-B.yaml, hash: 'sha256:89fc2f9aabacd28ddb519dc1cb740a460fa367b204daf44cabc472d1748c6592'}
+  - {seq: 1, filename: KR6v0346_001-B.yaml, hash: 'sha256:06bb980685e283b0546ca9879db671938ddbc761b23739614c29e8349de54efc'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6v0346_000-B.markers.yaml, hash: 'sha256:56b9a4b0aae88232a044228534fc851534741a68290db8504ab9f51263fd2e4f'}
+  - {seq: 1, role: markers, filename: assets/KR6v0346_001-B.markers.yaml, hash: 'sha256:1bfbcbcaacf7941948217d8284310467315be50ffd87ecd881a5d0f05b12d337'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6v0346_B_001-juan-start
+    span:
+    - body
+    - 0
+    - 31346
+  label: 中論文句釋
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0346_B_001-mulu-1
+    span:
+    - body
+    - 16
+    - 16
+  label: 觀緣品第一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0346_B_001-mulu-2
+    span:
+    - body
+    - 2529
+    - 2529
+  label: 觀去來品第二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0346_B_001-mulu-3
+    span:
+    - body
+    - 4368
+    - 4368
+  label: 觀根品第三
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0346_B_001-mulu-4
+    span:
+    - body
+    - 5249
+    - 5249
+  label: 觀蘊品第四
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0346_B_001-mulu-5
+    span:
+    - body
+    - 5824
+    - 5824
+  label: 觀界品第五
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0346_B_001-mulu-6
+    span:
+    - body
+    - 6503
+    - 6503
+  label: 觀貪、貪者品第六
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0346_B_001-mulu-7
+    span:
+    - body
+    - 7275
+    - 7275
+  label: 觀生住滅品第七
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0346_B_001-mulu-8
+    span:
+    - body
+    - 9436
+    - 9436
+  label: 觀著作及業品第八
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0346_B_001-mulu-9
+    span:
+    - body
+    - 10191
+    - 10191
+  label: 觀本住品第九
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0346_B_001-mulu-10
+    span:
+    - body
+    - 11013
+    - 11013
+  label: 觀火薪品第十
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0346_B_001-mulu-11
+    span:
+    - body
+    - 12112
+    - 12112
+  label: 觀前際後際品第十一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0346_B_001-mulu-12
+    span:
+    - body
+    - 12570
+    - 12570
+  label: 觀自作他作品第十二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0346_B_001-mulu-13
+    span:
+    - body
+    - 13153
+    - 13153
+  label: 觀行品第十三
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0346_B_001-mulu-14
+    span:
+    - body
+    - 13681
+    - 13681
+  label: 觀和合品第十四
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0346_B_001-mulu-15
+    span:
+    - body
+    - 14258
+    - 14258
+  label: 觀自性品第十五
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0346_B_001-mulu-16
+    span:
+    - body
+    - 14861
+    - 14861
+  label: 觀縛解品第十六
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0346_B_001-mulu-17
+    span:
+    - body
+    - 15750
+    - 15750
+  label: 觀業品第十七
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0346_B_001-mulu-18
+    span:
+    - body
+    - 17316
+    - 17316
+  label: 觀我法品第十八
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0346_B_001-mulu-19
+    span:
+    - body
+    - 18451
+    - 18451
+  label: 觀時品第十九
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0346_B_001-mulu-20
+    span:
+    - body
+    - 18872
+    - 18872
+  label: 觀和合品第二十
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0346_B_001-mulu-21
+    span:
+    - body
+    - 20219
+    - 20219
+  label: 觀成壞品第二十一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0346_B_001-mulu-22
+    span:
+    - body
+    - 21337
+    - 21337
+  label: 觀如來品第二十二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0346_B_001-mulu-23
+    span:
+    - body
+    - 22272
+    - 22272
+  label: 觀顛倒品第二十三
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0346_B_001-mulu-24
+    span:
+    - body
+    - 23518
+    - 23518
+  label: 觀聖諦品第二十四
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0346_B_001-mulu-25
+    span:
+    - body
+    - 25477
+    - 25477
+  label: 觀涅槃品第二十五
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0346_B_001-mulu-26
+    span:
+    - body
+    - 26838
+    - 26838
+  label: 觀十二有支品第二十六
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0346_B_001-mulu-27
+    span:
+    - body
+    - 27272
+    - 27272
+  label: 觀見品第二十七
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0346_B_001-mulu-28
+    span:
+    - body
+    - 29557
+    - 29557
+  label: 附錄：明句中論疏歸敬偈疏
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0346_B_001-mulu-29
+    span:
+    - body
+    - 29579
+    - 29579
+  label: 疏主歸敬偈
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0346_B_001-mulu-30
+    span:
+    - body
+    - 29698
+    - 29698
+  label: 中論歸敬偈疏
+  type: mulu
+  level: 1
+hash: sha256:36e5a7933dea29dddbf466c6a8e6970539d76c4f13cddd3e741e31786c44c825
