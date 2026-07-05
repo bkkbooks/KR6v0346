@@ -19,9 +19,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6v0346_000.yaml, hash: 'sha256:89fc2f9aabacd28ddb519dc1cb740a460fa367b204daf44cabc472d1748c6592'}
-  - {seq: 1, filename: KR6v0346_001.yaml, hash: 'sha256:1ba61689642adbbc3137db0d5fbc11ff800e9da4d0372102a3886555bef8616e'}
+  - {seq: 1, filename: KR6v0346_001.yaml, hash: 'sha256:06bb980685e283b0546ca9879db671938ddbc761b23739614c29e8349de54efc'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6v0346_001.markers.yaml, hash: 'sha256:9aadd045f4878b84635536efb4468110be9ac73282ddf036be6ea7d195cb0ed2'}
+  - {seq: 0, role: markers, filename: assets/KR6v0346_000.markers.yaml, hash: 'sha256:e0c2df15c39dc417ba0a0a22b77a44a461ccf3500197b6e836d80b2064d0e029'}
+  - {seq: 1, role: markers, filename: assets/KR6v0346_001.markers.yaml, hash: 'sha256:abcf9e3e7a18d9171f4b2c343e760e0c8d481e59c7e8b93a10a30a77168924c7'}
 table_of_contents:
 - ref:
     seq: 1
@@ -333,7 +334,4 @@ table_of_contents:
   label: 中論歸敬偈疏
   type: mulu
   level: 1
-hash: sha256:f88c83f183e147520583846e7a59071af5f4a66427a0841f87655b5dec434638
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:c27379fa918a762c7287606c68d1331f6e08229ae0b92a5d1af275081a49120f
