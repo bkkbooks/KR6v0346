@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6v0346/v1
 canonical_location: https://kanripo.org/bkk/KR6v0346/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 中論文句釋
   source:
@@ -19,10 +19,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6v0346_000.yaml, hash: 'sha256:89fc2f9aabacd28ddb519dc1cb740a460fa367b204daf44cabc472d1748c6592'}
-  - {seq: 1, filename: KR6v0346_001.yaml, hash: 'sha256:06bb980685e283b0546ca9879db671938ddbc761b23739614c29e8349de54efc'}
+  - {seq: 1, filename: KR6v0346_001.yaml, hash: 'sha256:ae5ffe8b4f13937d59bbf7773930ed2480ce3e248ffec40c222915b92824f287'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6v0346_000.markers.yaml, hash: 'sha256:e0c2df15c39dc417ba0a0a22b77a44a461ccf3500197b6e836d80b2064d0e029'}
-  - {seq: 1, role: markers, filename: assets/KR6v0346_001.markers.yaml, hash: 'sha256:abcf9e3e7a18d9171f4b2c343e760e0c8d481e59c7e8b93a10a30a77168924c7'}
+  - {seq: 1, role: markers, filename: assets/KR6v0346_001.markers.yaml, hash: 'sha256:7c6f4e7620778ac70ad6d49cbbcb548f86eab15244c515e7f825fcfe8a0cf0a8'}
 table_of_contents:
 - ref:
     seq: 1
@@ -334,4 +334,7 @@ table_of_contents:
   label: 中論歸敬偈疏
   type: mulu
   level: 1
-hash: sha256:c27379fa918a762c7287606c68d1331f6e08229ae0b92a5d1af275081a49120f
+hash: sha256:ea04a55dc0c1f0ad21e767014178f0b748165a7b48f5640954258985ad827ed4
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
